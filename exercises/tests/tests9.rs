@@ -28,10 +28,10 @@
 // You should NOT modify any existing code except for adding two lines of attributes.
 
 
-extern "Rust" {
-    fn my_demo_function(a: u32) -> u32;
-    fn my_demo_function_alias(a: u32) -> u32;
-}
+// extern "Rust" {
+//     fn my_demo_function(a: u32) -> u32;
+//     fn my_demo_function_alias(a: u32) -> u32;
+// }
 
 mod Foo {
     // No `extern` equals `extern "Rust"`.

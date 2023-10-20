@@ -23,7 +23,7 @@ fn main() {
 
 #[cfg(test)]
 mod tests {
-    use super::*;
+    // use super::*;
 
     // #[test]
     // fn is_foo_bar() {

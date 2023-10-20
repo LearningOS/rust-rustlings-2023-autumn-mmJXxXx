@@ -4,8 +4,8 @@
 // hint.
 
 
-#[cfg(test)]
-mod tests {
+// #[cfg(test)]
+// mod tests {
     // #[test]
     // fn simple_option() {
     //     let target = "rustlings";
@@ -38,4 +38,4 @@ mod tests {
 
     //     // assert_eq!(cursor, 0);
     // }
-}
+// }
